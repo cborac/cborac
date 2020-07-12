@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Sardonyx78/Sardonyx78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <br />
+  <p>
+    <img src="https://i.sardonyx.studio/🤧🤒😢😦😘😈😜👽"/>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+- 🎂 | Age • Not old
+- 🏳️ | Country • Turkey
+- 💻 | Languages • TypeScript, JavaScript (Node.js), Web Thingzz
+- 🎮 | Games • LoL, Minecraft
+- 📧 | Discord • Sardonyx#7800 (295222772546928641)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My opinions:
+- All Lives Can't Matter Until Black Lives Matter ✊🏻✊🏼✊🏽✊🏾✊🏿
+- *Bonk* our president (You know who) 🍾
+- Avatar: The Last Airbender best show yet 🌪
+- Steven Universe is second 🌸
+- From here to my ex-crush 🖕
