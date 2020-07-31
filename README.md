@@ -10,4 +10,4 @@
 - *Bonk* our president (You know who) 🔨
 - Avatar: The Last Airbender best show yet 🌪
 - Steven Universe is second 🌸
-- From here to my ex-crush (They started to seduce me again -_-)🍾
+- Chrome from Dr. Stone is best character ever created ⚗
