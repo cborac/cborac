@@ -1,11 +1,4 @@
-
-<div align="center">
-  <br />
-  <p>
-    <img src="https://i.sardonyx.studio/🤧🤒😢😦😘😈😜👽"/>
-  </p>
-</div>
-
+# The boy whose the links with emojis init
 - 🎂 | Age • Not old
 - 🏳️ | Country • Turkey
 - 💻 | Languages • TypeScript, JavaScript (Node.js), Web Thingzz
