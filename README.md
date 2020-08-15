@@ -1,4 +1,4 @@
-# The boy whose the links with emojis init
+# The boy whose the links with emojis in it
 - 🎂 | Age • Not old
 - 🏳️ | Country • Turkey
 - 💻 | Languages • TypeScript, JavaScript (Node.js), Web Thingzz
