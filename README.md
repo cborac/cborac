@@ -10,4 +10,9 @@
 - *Bonk* our president (You know who) 🔨
 - Avatar: The Last Airbender best show yet 🌪
 - Steven Universe is second 🌸
-- Chrome from Dr. Stone is best character ever created ⚗
+- Chrome from Dr. Stone is best character ever created ⚗ <br>
+
+
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="300px" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=default">
+<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact"></a></p>
