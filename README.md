@@ -14,5 +14,5 @@
 
 
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=default">
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=default">
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact"></a></p>
