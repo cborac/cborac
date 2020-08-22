@@ -13,4 +13,4 @@
 - Chrome from Dr. Stone is best character ever created ⚗ <br>
 <hr>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=buefy">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact&theme=buefy"></a></p>
+<img align="center" width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact&theme=buefy"></a></p>
