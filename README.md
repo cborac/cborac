@@ -11,8 +11,6 @@
 - Avatar: The Last Airbender best show yet 🌪
 - Steven Universe is second 🌸
 - Chrome from Dr. Stone is best character ever created ⚗ <br>
-
-
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=tokyonight">
-<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact&theme=tokyonight"></a></p>
+<hr>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=buefy">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardonyx78&layout=compact&theme=buefy"></a></p>
