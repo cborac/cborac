@@ -8,8 +8,8 @@
 ### My opinions:
 - All Lives Can't Matter Until Black Lives Matter ✊🏻✊🏼✊🏽✊🏾✊🏿
 - *Bonk* our president (You know who) 🔨
-- Avatar: The Last Airbender best show yet 🌪
-- Steven Universe is second 🌸
+- Steven Universe is the best show yet 🌸
+- Avatar: The Last Airbender is second 🌪
 - Chrome from Dr. Stone is best character ever created ⚗ <br>
 <hr>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=sardonyx78&show_icons=true&theme=buefy"></a>
