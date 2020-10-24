@@ -11,11 +11,12 @@
 - Steven Universe is the best show yet 🌸
 - Avatar: The Last Airbender is second 🌪
 - Chrome from Dr. Stone is best character ever created ⚗ <br>
+<hr>
 
 <p align="center">
   <a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sardonyx78&show_icons=true&theme=vue&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sardonyx78&layout=compact&langs_count=8&theme=vue">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sardonyx78&show_icons=true&theme=vue&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sardonyx78&layout=compact&langs_count=8&theme=vue">
   </a>
 </p>
 
