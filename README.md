@@ -1,7 +1,7 @@
 # The boy whose the links with emojis in it
 - 🎂 | Age • Not old
 - 🏳️ | Country • Turkey
-- 💻 | Languages • TypeScript, JavaScript (Node.js), Web Thingzz
+- 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API)
 - 🎮 | Games • LoL, Minecraft
 - 📧 | Discord • Sardonyx#7800 (295222772546928641)
 
