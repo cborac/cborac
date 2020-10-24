@@ -1,4 +1,4 @@
-# The boy whose the links with emojis in it
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The boy whose the links with emojis in it
 - 🎂 | Age • Not old
 - 🏳️ | Country • Turkey
 - 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API)
@@ -12,7 +12,9 @@
 - Avatar: The Last Airbender is second 🌪
 - Chrome from Dr. Stone is best character ever created ⚗ <br>
 <hr>
+<a>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sardonyx78&show_icons=true&theme=vue&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sardonyx78&layout=compact&langs_count=8&theme=vue">
 </p>
+</a>
