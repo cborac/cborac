@@ -11,7 +11,6 @@
 - Steven Universe is the best show yet 🌸
 - Avatar: The Last Airbender is second 🌪
 - Chrome from Dr. Stone is best character ever created ⚗ <br>
-<hr>
 
 <p align="center">
   <a>
