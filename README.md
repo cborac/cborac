@@ -10,7 +10,7 @@
 - 🏳️ | Country • Turkey
 - 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API)
 - 🎮 | Games • LoL, Minecraft
-- 📧 | Discord • Sardonyx#7800 (295222772546928641)
+- 📧 | Discord • Sardonyx#3435 (295222772546928641)
 
 ### My opinions:
 - All Lives Can't Matter Until Black Lives Matter ✊🏻✊🏼✊🏽✊🏾✊🏿
