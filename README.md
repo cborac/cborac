@@ -16,8 +16,9 @@
 - All Lives Can't Matter Until Black Lives Matter ✊🏻✊🏼✊🏽✊🏾✊🏿
 - *Bonk* our president (You know who) 🔨
 - Steven Universe is the best show yet 🌸
-- Avatar: The Last Airbender is second 🌪
-- Chrome from Dr. Stone is the best character ever created ⚗ <br>
+- Avatar: The Legend of Korra is second 🌪
+- Chrome from Dr. Stone is the best character ever created ⚗ 
+- MariNoir shipper 💘🐈‍<br>
 <hr>
 
 <p align="center">
