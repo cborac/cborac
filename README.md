@@ -1,7 +1,7 @@
 ## Resources that you should check
 - <a href="https://www.theguardian.com/world/2021/jan/12/uighur-xinjiang-re-education-camp-china-gulbahar-haitiwaji">Thousands of uyghur turks are being slaughtered in China</a>
 - Please say no to any discrimination against any person, for e.g. but not only:
-  - <a href="https://blacklivesmatter.com">Black People</a>
+  - <a href="https://en.wikipedia.org/wiki/Discrimination_based_on_skin_color#Worldwide">POC</a>
   - <a href="https://www.americanprogress.org/issues/lgbtq-rights/news/2017/05/02/429529/widespread-discrimination-continues-shape-lgbt-peoples-lives-subtle-significant-ways/">LGBTQIA+</a>
   - <a href="https://www.ohchr.org/en/issues/discrimination/pages/discrimination_women.aspx">Woman</a>
   
