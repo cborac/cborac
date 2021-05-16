@@ -1,18 +1,18 @@
 
-# The boy whose the links with emojis in it
+# It's me, 
 - 🎂 | Age • Not old
 - 🏳️ | Country • Turkey
 - 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java
 - 🎮 | Games • LoL, Minecraft, tbh just check my steam
 - 📧 | Discord • Sardonyx#7800 (295222772546928641)
+- ⛪ | Interests • SynBio, Computer Science
+- 🥽 | Favorite Subject • Biology and math
 
 ### My opinions:
 - All Lives Can't Matter Until Black Lives Matter ✊🏻✊🏼✊🏽✊🏾✊🏿
-- *Bonk* our president (You know who) 🔨
-- Steven Universe is the best show yet 🌸
-- Avatar: The Legend of Korra is second 🌪
-- Chrome from Dr. Stone is the best character ever created ⚗ 
-- MariNoir shipper 💘🐈‍<br>
+- Lesbians Mesbians do exist, MGTQ+! 🥐/j <!--Our president Erdogan said 'These Mesbians Lesbians are trying to sabotage our traditional family structure, they are terrorists.'-->
+- Mari Chat is superior tbh 🐈
+- Dr. Stone was the best anime I have ever watched, waiting for S3 🧪
 <hr>
 
 <p align="center">
