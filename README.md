@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### Please say no to any kind of discrimination, if you aren't please check these sources and see if they'll change your mind
+### Please say no to any kind of discrimination, if you wont't then please check these sources and see if they'll change your mind
 
   - <a href="https://www.theguardian.com/world/2021/jan/12/uighur-xinjiang-re-education-camp-china-gulbahar-haitiwaji">Islamaphobia & Racism</a>
   - <a href="https://en.wikipedia.org/wiki/Discrimination_based_on_skin_color#Worldwide">Racism Around the world</a>
