@@ -2,17 +2,16 @@
 # It's me, 
 - 🎂 | Age • Not old (Minor)
 - 🏳️ | Country • Turkey
-- 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP
-- 🎮 | Games • LoL, Minecraft, tbh just check my steam
+- 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP, C#
+- 🎮 | Games • Genshin Impact, LoL, Minecraft, tbh just check my steam
 - 📧 | Discord • Sardonyx#7800 (295222772546928641)
 - ⛪ | Interests • SynBio, Computer Science
 - 🥽 | Favorite Subjects • Biology, Math and Chemistry
 
 ### About Me
-- Mari Chat shipper 🐱‍👤
-- SU and MLB fan 💎🐞
-- INFP-T • 5w4 ⭐
+- XNXP-T (ik it seems like it doesn't make sense, but once you get to know me you'll understand...) • 5w4 ⭐
 - Libra ♎
+- Hates reading 
 <hr>
 
 <p align="center">
