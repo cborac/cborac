@@ -11,7 +11,10 @@
 ### About Me
 - XNXP-T (ik it seems like it doesn't make sense, but once you get to know me you'll understand...) • 5w4 ⭐
 - Libra ♎
-- Hates reading 
+- Loves:
+  - Steven Universe 💠
+  - Heartstopper 🍂 (Both novels & TV Show)
+  - MCU 🔥
 <hr>
 
 <p align="center">
