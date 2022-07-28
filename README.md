@@ -9,7 +9,7 @@
 - 🥽 | Favorite Subjects • Biology, Math and Chemistry
 
 ### About Me
-- XNXP-T (ik it seems like it doesn't make sense, but once you get to know me you'll understand...) • 5w4 ⭐
+- INFP-T • 5w4 ⭐
 - Libra ♎
 - Loves:
   - Steven Universe 💠
