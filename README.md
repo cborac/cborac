@@ -4,7 +4,7 @@
 - 🏳️ | Country • Turkey
 - 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP, C#
 - 🎮 | Games • Genshin Impact, LoL, Minecraft, tbh just check my steam
-- 📧 | Discord • Sardonyx#7800 (295222772546928641)
+- 📧 | Discord • Sards#7800 (295222772546928641)
 - ⛪ | Interests • SynBio, Computer Science
 - 🥽 | Favorite Subjects • Biology, Math and Chemistry
 
