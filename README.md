@@ -24,7 +24,7 @@ For further details, check out [my website](https://boraciner-is.me)-which is *e
 - I really like these fictions:
   - 🌸 | Steven Universe is my favorite TV series since 2014 and it had a great impact on me
   - 🍂 | I've met with Heartstopper when its Netflix series was first announced, I've read the novels and continued to read Alice Oseman's work-which are truely incredible.
-  - 🤖 | Neon Genesis Evangeliın is my favorite anime; personally, I prefer the rebuild series.
+  - 🤖 | Neon Genesis Evangelion is my favorite anime; personally, I prefer the rebuild series.
   - 🔥 | I'm a fan of Marvel Cinematic Universe, also my favorite character is probably Wanda
 <hr>
 
