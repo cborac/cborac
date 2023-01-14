@@ -1,20 +1,29 @@
 
-# It's me, 
-- 🎂 | Age • Not old (Minor)
+# An Average High School Student
+- 🎂 | Age • 17 (Oct 3rd is my birthday)
 - 🏳️ | Country • Turkey
-- 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP, C#
+- 💻 | Skills • Full Stack Web Development, TypeScript, Lua, Java, PHP, C#
 - 🎮 | Games • Genshin Impact, LoL, Minecraft, tbh just check my steam
 - 📧 | Discord • Sards#7800 (295222772546928641)
 - ⛪ | Interests • SynBio, Computer Science
 - 🥽 | Favorite Subjects • Biology, Math and Chemistry
 
-### About Me
-- INFP-T • 5w4 ⭐
-- Libra ♎
-- Loves:
-  - Steven Universe 💠
-  - Heartstopper 🍂 (Both novels & TV Show)
-  - MCU 🔥
+### My Work
+- Through 2020-2022, I've worked with several Gmod communities-highly Hogwarts role-play servers- where I developed necessary systems (closed-sourced) for them. I wrote these systems majorly in Lua [(Check out GLua API)](https://wiki.facepunch.com/gmod/) and also included C++ and web server development. 
+- I also have written Discord Bots for several communities (almost all of them are closed-source, but I am planning on publishing my framework publicly)
+- Projects like [Runes++](https://github.com/cborac/Runes-plus-plus), [AirPods Connect](https://github.com/cborac/AirPods-Connect), were primarily experimental and short-term projects, which I don't plan to continue development unless I am bored.
+- I also have worked on several closed-source projects, which I cannot disclose here.
+
+For further details, check out [my website](https://boraciner-is.me)-which is *extremely* plain.
+
+### More About Me
+- ⭐ | My MBTI is **INFP-T** also my ennegram personality alignment is **5w4**
+- ♎ | My star sign is **Libra** (Fun fact: I used to be really into astrology but after a quote my beliefs have shifted)
+- I really like these fictions:
+  - 🌸 | Steven Universe is my favorite TV series since 2014 and it had a great impact on me
+  - 🍂 | I've met with Heartstopper when its Netflix series was first announced, I've read the novels and continued to read Alice Oseman's work-which are truely incredible.
+  - 🤖 | Neon Genesis Evangeliın is my favorite anime; personally, I prefer the rebuild series.
+  - 🔥 | I'm a fan of Marvel Cinematic Universe, also my favorite character is probably Wanda
 <hr>
 
 <p align="center">
@@ -23,11 +32,3 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cborac&layout=compact&langs_count=8&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
   </a>
 </p>
-
-### Please say no to any kind of discrimination, if you wont't then please check these sources and see if they'll change your mind
-
-  - <a href="https://www.theguardian.com/world/2021/jan/12/uighur-xinjiang-re-education-camp-china-gulbahar-haitiwaji">Islamaphobia & Racism in action against Uyghurs</a>
-  - <a href="https://en.wikipedia.org/wiki/Discrimination_based_on_skin_color#Worldwide">Examples of racism around the world</a>
-  - <a href="https://www.americanprogress.org/issues/lgbtq-rights/news/2017/05/02/429529/widespread-discrimination-continues-shape-lgbt-peoples-lives-subtle-significant-ways/">Queer discrimination</a>
-  - <a href="https://www.ohchr.org/en/issues/discrimination/pages/discrimination_women.aspx">Misogny and discrimination of women</a>
-  
