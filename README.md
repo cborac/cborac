@@ -13,6 +13,8 @@
 - I also have written Discord Bots for several communities (almost all of them are closed-source, but I am planning on publishing my framework publicly)
 - Projects like [Runes++](https://github.com/cborac/Runes-plus-plus), [AirPods Connect](https://github.com/cborac/AirPods-Connect), were primarily experimental and short-term projects, which I don't plan to continue development unless I am bored.
 - I also have worked on several closed-source projects, which I cannot disclose here.
+- I am also an iGEMer, I am a part of my school's team since Sept 2019; but only in 2021 we participated. However, we are participating this year too!
+  - **[🥈 Cellulophile (2021)](https://2021.igem.org/Team:Saint_Joseph)**: enchanced cellulases to fight against paper pollution: 
 
 For further details, check out [my website](https://boraciner-is.me)-which is *extremely* plain.
 
