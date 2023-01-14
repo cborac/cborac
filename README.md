@@ -2,7 +2,7 @@
 # An Average High School Student
 - 🎂 | Age • 17 (Oct 3rd is my birthday)
 - 🏳️ | Country • Turkey
-- 💻 | Skills • Full Stack Web Development, TypeScript, Lua, Java, PHP, C#
+- 💻 | Skills • TypeScript, C#, Lua, Java, PHP
 - 🎮 | Games • Genshin Impact, LoL, Minecraft, tbh just check my steam
 - 📧 | Discord • Sards#7800 (295222772546928641)
 - ⛪ | Interests • SynBio, Computer Science
