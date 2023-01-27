@@ -19,13 +19,14 @@
 For further details, check out [my website](https://boraciner-is.me)-which is *extremely* plain.
 
 ### More About Me
-- ⭐ | My MBTI is **INFP-T** also my ennegram personality alignment is **5w4**
-- ♎ | My star sign is **Libra** (Fun fact: I used to be really into astrology but after a quote my beliefs have shifted)
+- 🎨 | I am currently trying out new technologies for fun. [(See the board)](https://cbora.notion.site/2d61574b2acd466593d3935bf3120574?v=8a8c6f2edc774f3297b151e868404339)
+- ⭐ | My MBTI is **INFP-T** also my ennegram personality alignment is **5w4**.
+- ♎ | My star sign is **Libra**. (Fun fact: I used to be really into astrology but after a quote my beliefs have shifted)
 - I really like these fictions:
-  - 🌸 | Steven Universe is my favorite TV series since 2014 and it had a great impact on me
+  - 🌸 | Steven Universe is my favorite TV series since 2014 and it had a great impact on me.
   - 🍂 | I've met with Heartstopper when its Netflix series was first announced, I've read the novels and continued to read Alice Oseman's work-which are truely incredible.
   - 🤖 | Neon Genesis Evangelion is my favorite anime; personally, I prefer the rebuild series.
-  - 🔥 | I'm a fan of Marvel Cinematic Universe, also my favorite character is probably Wanda
+  - 🔥 | I'm a fan of Marvel Cinematic Universe, also my favorite character is probably Wanda.
 <hr>
 
 <p align="center">
