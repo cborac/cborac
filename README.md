@@ -1,5 +1,11 @@
+<div align="center">
+  <h3>An average high school student</h3>
+  <h1>👋 Welcome to my profile!</h1>
+</div><br>
 
-# An Average High School Student
+
+## 🎈 Quick Sum
+
 - 🎂 | Age • 17 (Oct 3rd is my birthday)
 - 🏳️ | Country • Turkey
 - 💻 | Skills • TypeScript, C#, Lua, Java, PHP
@@ -8,7 +14,8 @@
 - ⛪ | Interests • SynBio, Computer Science
 - 🥽 | Favorite Subjects • Biology, Math and Chemistry
 
-### My Work
+## 🧑‍💻 My Work
+
 - Through 2020-2022, I've worked with several Gmod communities-highly Hogwarts role-play servers- where I developed necessary systems (closed-sourced) for them. I wrote these systems majorly in Lua [(Check out GLua API)](https://wiki.facepunch.com/gmod/) and also included C++ and web server development. 
 - I also have written Discord Bots for several communities (almost all of them are closed-source, but I am planning on publishing my framework publicly)
 - Projects like [Runes++](https://github.com/cborac/Runes-plus-plus), [AirPods Connect](https://github.com/cborac/AirPods-Connect), were primarily experimental and short-term projects, which I don't plan to continue development unless I am bored.
@@ -18,7 +25,8 @@
 
 For further details, check out [my website](https://boraciner-is.me)-which is *extremely* plain.
 
-### More About Me
+## 🪶 More About Me
+
 - 🎨 | I am currently trying out new technologies for fun. [(See the board)](https://cbora.notion.site/2d61574b2acd466593d3935bf3120574?v=8a8c6f2edc774f3297b151e868404339)
 - ⭐ | My MBTI is **INFP-T** also my ennegram personality alignment is **5w4**.
 - ♎ | My star sign is **Libra**. (Fun fact: I used to be really into astrology but after a quote my beliefs have shifted)
