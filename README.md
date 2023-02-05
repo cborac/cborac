@@ -17,7 +17,7 @@
 ## 🧑‍💻 My Work
 
 - Through 2020-2022, I've worked with several Gmod communities-highly Hogwarts role-play servers- where I developed necessary systems (closed-sourced) for them. I wrote these systems majorly in Lua [(Check out GLua API)](https://wiki.facepunch.com/gmod/) and also included C++ and web server development. 
-- I also have written Discord Bots for several communities (almost all of them are closed-source, but I am planning on publishing my framework publicly)
+- I also have written Discord Bots for several communities (almost all of them are closed-source, but I recently published my framework publicly [Silica Framework](https://github.com/cborac/Silica-Framework))
 - Projects like [Runes++](https://github.com/cborac/Runes-plus-plus), [AirPods Connect](https://github.com/cborac/AirPods-Connect), were primarily experimental and short-term projects, which I don't plan to continue development unless I am bored.
 - I also have worked on several closed-source projects, which I cannot disclose here.
 - I am also an iGEMer, I am a part of my school's team since Sept 2019; but only in 2021 we participated. However, we are participating this year too!
