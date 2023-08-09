@@ -43,3 +43,20 @@ For further details, check out [my website](https://boraciner-is.me)-which is *e
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cborac&layout=compact&langs_count=8&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
   </a>
 </p>
+
+## 🪪 Licences and Certifications
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G7C7CWQBR7MV"><img height="43em" src="assets/googleit.png"></a>
+  <a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sardonyx/Web%20Programlama/402"><img height="43em" src="assets/turkweb.png"></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RFCXYGQTGN8G"><img height="43em" src="assets/umpython.png"></a>
+  <a href="https://www.hackerrank.com/certificates/18aebbf16c4f"><img height="43em" src="assets/hrnode.png"></a>
+  <a href="https://www.hackerrank.com/certificates/462b69c7ca07"><img height="43em" src="assets/hrjs.png"></a>
+  <a href="https://www.hackerrank.com/certificates/f93379b904ab"><img height="43em" src="assets/hrrest.png"></a>
+  <a href="https://www.hackerrank.com/certificates/c40deb19dc1b"><img height="43em" src="assets/hrcss.png"></a>
+  <a href="https://www.hackerrank.com/certificates/abf454be3ba2"><img height="43em" src="assets/hrcs.png"></a>
+  <br>
+  <a><img height="43em" src="assets/HPYL.png"></a>
+  <br>
+  <a><img height="43em" src="assets/ielts.png"></a>
+  <a><img height="43em" src="assets/delf.png"></a>
+</p>
