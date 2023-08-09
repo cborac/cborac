@@ -10,7 +10,7 @@
 - 🏳️ | Country • Turkey
 - 💻 | Skills • TypeScript, C#, Lua, Java, PHP
 - 🎮 | Games • Genshin Impact, LoL, Minecraft, tbh just check my steam
-- 📧 | Discord • Sards#7800 (295222772546928641)
+- 📧 | Discord • sards
 - ⛪ | Interests • SynBio, Computer Science
 - 🥽 | Favorite Subjects • Biology, Math and Chemistry
 
