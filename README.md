@@ -60,3 +60,8 @@ For further details, check out [my website](https://boraciner-is.me)-which is *e
   <a><img height="43em" src="assets/ielts.png"></a>
   <a><img height="43em" src="assets/delf.png"></a>
 </p>
+
+<br>
+<br>
+
+[![cborac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cborac&theme=github-compact)](https://github.com/cborac)
