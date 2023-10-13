@@ -6,7 +6,7 @@
 
 ## 🎈 Quick Sum
 
-- 🎂 | Age • 17 (Oct 3rd is my birthday)
+- 🎂 | Age • 18 (Oct 3rd is my birthday)
 - 🏳️ | Country • Turkey
 - 💻 | Skills • TypeScript, C#, Lua, Java, PHP
 - 🎮 | Games • Genshin Impact, LoL, Minecraft, tbh just check my steam
