@@ -54,6 +54,8 @@ For further details, check out [my website](https://boraciner-is.me)-which is *e
   <a href="https://www.hackerrank.com/certificates/f93379b904ab"><img height="43em" src="assets/hrrest.png"></a>
   <a href="https://www.hackerrank.com/certificates/c40deb19dc1b"><img height="43em" src="assets/hrcss.png"></a>
   <a href="https://www.hackerrank.com/certificates/abf454be3ba2"><img height="43em" src="assets/hrcs.png"></a>
+  <a href="https://university.atlassian.com/student/award/MwfrfPjMMq4YTv7pv2uNszkE"><img height="43em" src="assets/confluence.png"></a>
+  <a href="https://university.atlassian.com/student/award/yrqTrqZbessttkMGhDXtVNSN"><img height="43em" src="assets/jira.png"></a>
   <br>
   <a><img height="43em" src="assets/HPYL.png"></a>
   <br>
