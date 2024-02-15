@@ -66,4 +66,4 @@ For further details, check out [my website](https://boraciner-is.me)-which is *e
 <br>
 <br>
 
-[![cborac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cborac&theme=github-compact)](https://github.com/cborac)
+[![cborac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cborac&theme=github-compact&area=true&hide_title=true&height=300)](https://github.com/cborac)
