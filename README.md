@@ -6,7 +6,7 @@
 
 ## 🎈 Quick Sum
 
-- 🎂 | Age • 18
+- 🎂 | Age • 19
 - 🏳️ | Country • Turkey -> Netherlands
 - 💻 | Preffered Languages • TypeScript, C#, Lua, Java, PHP
 - 📧 | Discord • sards
